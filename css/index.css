@@ -1,0 +1,30 @@
+.cartaz{
+    height: 500px;
+}
+
+.tamanhoLogo{
+    height: 60px;
+}
+
+#whatsApp{
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    right: 0;
+    bottom: 30%;
+    color: #4682b4;    
+}
+
+
+.btnCard{
+    border:0;
+    padding: 10px;
+    outline: 0;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all ease 0.5s;
+}
+
+/* #btnCard:hover{
+    background-color:white;
+} */
